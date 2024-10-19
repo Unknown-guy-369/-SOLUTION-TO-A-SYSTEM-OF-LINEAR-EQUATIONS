@@ -18,12 +18,15 @@ End the program
 #Program to find the solution for the given linear equations.
 #Developed by: Abishek Priyan M
 #RegisterNumber:24900880
+~~~
 
 import numpy as np
 A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
 result=np.linalg.solve(A,B)
 print(result)
+
+~~~
 
 
 ## Output:
