@@ -25,6 +25,7 @@ B=np.array([0,10])
 result=np.linalg.solve(A,B)
 print(result)
 
+
 ## Output:
 
 ![Output](<Experiment 1.png>)
